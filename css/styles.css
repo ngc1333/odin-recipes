@@ -1,0 +1,50 @@
+/* styles.css */
+
+* {
+    color:black;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, sans-serif;
+}
+
+.link {
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1 {
+    color: darkblue;
+    font-weight: bold;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 32px;
+}
+
+ul,
+ol {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+li {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.subheading {
+    color:lightskyblue;
+    background-color: darkblue;
+    font-size: 24px;
+}
+
+.main {
+    font-size: 46px;
+    color: brown;
+}
+
+.descr {
+    height: 300px;
+    width: auto;
+}
